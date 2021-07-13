@@ -22,7 +22,7 @@
   
 - 🔭 I’m currently in my final year of B.Sc (Mathematics, Statistics & Computer Science)
 - 🌱 I’m currently learning Data Science
-- 📫 How to reach me: Instagram
+- 📫 How to reach me: Gmail,Linkedin,Instagram
   <br>
 </div>
 

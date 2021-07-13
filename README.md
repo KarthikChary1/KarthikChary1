@@ -20,7 +20,7 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently in my final year of B.Sc (statistics & computer science)
+- 🔭 I’m currently in my final year of B.Sc (Mathematics, Statistics & Computer Science)
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: Instagram
   <br>

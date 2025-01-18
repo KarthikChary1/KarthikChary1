@@ -19,10 +19,10 @@
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
+I am currently working as a System Engineer at TCS, where I have gained a strong foundation in technology and systems management. However, my true passion lies in Data Science and Generative AI. I am particularly interested in Machine Learning, Deep Learning, and Natural Language Processing, and I actively work on projects to apply AI to real-world problems.
   
-- 🔭 I have recently completed my graduation in B.Sc (Mathematics, Statistics & Computer Science)
-- 🌱 Data Science Enthusiast 
-- 📫 How to reach me: Gmail,Linkedin,Instagram
+- 💡 Passionate about AI, Data Science, and solving complex problems using cutting-edge technologies
+- 📬 Feel free to reach out to me on Gmail, LinkedIn, or Instagram
   <br>
 </div>
 
